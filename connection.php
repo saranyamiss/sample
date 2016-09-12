@@ -1,6 +1,7 @@
 <?php
 
-echo "hai";
+echo "welcome";
+echo "csc";
 $servername = "localhost";
 $username = "root";
 $password = "root";
