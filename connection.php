@@ -1,4 +1,7 @@
 <?php
+
+echo "welcome";
+echo "csc";
 $servername = "localhost";
 $username = "root";
 $password = "root";
