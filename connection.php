@@ -2,6 +2,9 @@
 
 echo "welcome";
 echo "csc";
+echo "Iam a B.e graduate";
+echo "Studied in gecb";
+echo "hobbies";
 $servername = "localhost";
 $username = "root";
 $password = "root";
